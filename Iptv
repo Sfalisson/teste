@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5d2SCDE.jpg" group-title="PIRATAS DO CARIBE 2017",DUBLADO SD
+http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5DUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5d2SCDE.jpg" group-title="PIRATAS DO CARIBE 2017",DUBLADO HD
+http://zeus.netcine.tv/httpdelivery/filmes2017/PIRATAS5DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w4d3kpU.jpg" group-title="VELOZES E FURIOSOS 8",DUBLADO SD
+http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017DUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w4d3kpU.jpg" group-title="VELOZES E FURIOSOS 8",DUBLADO HD
+http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOE0yC4.jpg" group-title="REI ARTHUR",DUBLADO HD
+http://zeus.netcine.tv/httpdelivery/filmes2017/ARTHUR2017DUB-ALTO.mp4
