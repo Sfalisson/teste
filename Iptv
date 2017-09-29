@@ -10,3 +10,28 @@ http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017DUB-BAIXO.mp4
 http://zeus.netcine.tv/httpdelivery/filmes2017/VELOZES2017DUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOE0yC4.jpg" group-title="REI ARTHUR",DUBLADO HD
 http://zeus.netcine.tv/httpdelivery/filmes2017/ARTHUR2017DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOE0yC4.jpg" group-title="REI ARTHUR",DUBLADO SD
+http://zeus.netcine.tv/httpdelivery/filmes2017/ARTHUR2017DUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/56Ju6Hx.jpg" group-title="A CABANA",DUBLADO SD
+http://zeus.netcine.tv/httpdelivery/filmes2017/ACABANA2017DUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/56Ju6Hx.jpg" group-title="A CABANA",DUBLADO HD
+http://zeus.netcine.tv/httpdelivery/filmes2017/ACABANA2017DUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPpInsX.jpg" group-title="A CHEGADA",DUBLADO HD
+http://zeus.netcine.tv/httpdelivery/filmes2017/CH4GADADUB-ALTO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nPpInsX.jpg" group-title="A CHEGADA",DUBLADO SD
+http://zeus.netcine.tv/httpdelivery/filmes2017/CH4GADADUB-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C8CMHcp.jpg" group-title="VIGILANTE DO AMANHA",DUBLADO SD
+http://zeus.netcine.tv/httpdelivery/filmes2017/GHOSTDUB2017-BAIXO.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C8CMHcp.jpg" group-title="VIGILANTE DO AMANHA"DUBLADO HD
+http://zeus.netcine.tv/httpdelivery/filmes2017/GHOSTDUB2017-ALTO.mp4
+
+#EXTINF:-1,teste pipocao
+https://lh3.googleusercontent.com/tEQnv5EDASuJIeHCoQkHy6moN9CoJVPoNwke88GAN98E1PiodP7a3fpZyd3xpV6takvXC6WHE3A=m18
+#EXTINF:-1,teste dbs
+https://lh3.googleusercontent.com/I98zQMObRYRPDd6jQgaUb3OhGNRHkXaj2lY5GFog927FqeuCo9cKyzQ4dSceQ7lxJlHY7c8vSHJ38n7ZBwcXBCRmvlGWKFILvPgUdnpYuOfOlpZMjEpfhGgfqHn3QuU2cP6OvmNMZg=m18
+#EXTINF:-1,teste dbs
+https://lh3.googleusercontent.com/XxC3w2dO6uKH0z5_bnXij90cQJY7lvPS3ato7nX-6KhpguoAY-5hSCOKcUB1m0OKMAGBUoOSP3cdZp5-2o-w6uZtb0mrZjX7sX1i31LjDjWc5xT5W35qogdCGRslSXZ6Vz8FgFTXiQ=m18
+#EXTINF:-1,meu drive
+https://lh3.googleusercontent.com/0B8QTY6fGQws0ZlNXZE0xUEpZYUE=m18
+#EXTINF:-1,mei drive 2
+https://www.googleapis.com/drive/v3/files/0B8QTY6fGQws0ZlNXZE0xUEpZYUE?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
